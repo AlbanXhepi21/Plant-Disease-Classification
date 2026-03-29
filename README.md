@@ -1,4 +1,4 @@
-# 🌿 Plant Disease Classification — EfficientNet-B3 Pipeline
+# 🌿 git add  — EfficientNet-B3 Pipeline
 
 A complete deep learning pipeline for classifying plant leaf diseases into 39 categories using EfficientNet-B3 with two-phase fine-tuning, CutMix/MixUp augmentation, and Test-Time Augmentation (TTA).
 
